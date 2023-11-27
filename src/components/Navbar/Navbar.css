@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 120px;
+    color: white;
+}
+.nav-logo{
+    font-family: Outfit;
+    font-size: 45px;
+    font-weight: 600;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap:80px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.nav-contract{
+    border-radius: 50px;
+    padding: 10px 30px;
+    background: white;
+    color: #262626;
+}
