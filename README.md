@@ -1,7 +1,7 @@
 
 # TeslaBD
 
-React JS slider Landing page
+React JS slider Landing page. This a learning project. Here I tried to learn a modern slide landing page.
 
 
 ## Screenshots
